@@ -14,6 +14,5 @@ end
 def age_appropriate_birthday(birthday_kids)
   birthday_kids.each do |age|
     
-     puts"You are too old for this."
-  end
+
 end
