@@ -12,7 +12,7 @@ end
 
 
 def age_appropriate_birthday(age)
-  if :age == 12
+  age.each do :age < 12
     happy_birthday
   end
 end
