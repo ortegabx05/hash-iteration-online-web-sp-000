@@ -13,7 +13,6 @@ end
 
 def age_appropriate_birthday(age)
   if :age == 12
-    puts happy_birthday
-  else puts "You are too old for this." 
+    happy_birthday
   end
 end
