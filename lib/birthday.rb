@@ -15,4 +15,5 @@ def age_appropriate_birthday(birthday_kids)
   birthday_kids.each do |happy_birthday|
     if birthday_kids < 12
    end
+ end
 end
